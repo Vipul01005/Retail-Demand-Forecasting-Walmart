@@ -1,2 +1,2 @@
 # Retail-Demand-Forecasting-Walmart
-Time series forecasting system using Facebook Prophet to predict weekly retail sales. Analyzes 421K+ Walmart transactions (2010-2012) to generate 12-week demand forecasts for inventory optimization and supply chain planning.
+TA comprehensive retail demand forecasting solution built with Python and Facebook Prophet. This project analyzes historical Walmart sales data to predict future weekly demand, enabling data-driven inventory management and operational planning decisions. The end-to-end pipeline includes data preprocessing, exploratory analysis, statistical modeling, and automated forecast generation with 10-15% MAPE accuracy.
